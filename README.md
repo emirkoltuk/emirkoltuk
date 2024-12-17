@@ -50,8 +50,7 @@
 📫 **How to reach me:**
 
 - LinkedIn: [Muhammet Emir Koltuk](https://www.linkedin.com/in/muhammetemirkoltuk/)  
-- Email: **koltuk20@itu.edu.tr**  
-- GitHub: [emirkoltuk](https://github.com/emirkoltuk)  
+- Email: **koltuk20@itu.edu.tr**   
 
 ---
 
