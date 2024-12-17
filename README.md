@@ -20,7 +20,7 @@
   <!-- Cisco -->
   <img src="https://img.shields.io/badge/Cisco-0869BE?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <!-- Arista -->
-  <img src="https://img.shields.io/badge/Arista%20Networks-003087?style=for-the-badge&logo=cisco&logoColor=white" alt="Arista" />
+  <img src="https://img.shields.io/badge/Arista-003087?style=for-the-badge&logo=arista-networks&logoColor=white" alt="Arista" />
   <!-- Huawei -->
   <img src="https://img.shields.io/badge/Huawei-E32322?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei" />
   <!-- Palo Alto -->
@@ -29,6 +29,12 @@
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <!-- F5 -->
   <img src="https://img.shields.io/badge/F5%20Networks-FF0000?style=for-the-badge&logo=f5&logoColor=white" alt="F5 Networks" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
