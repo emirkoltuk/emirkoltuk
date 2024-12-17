@@ -46,10 +46,3 @@
 </p>
 
 ---
-
-📫 **How to reach me:**
-
-- LinkedIn: [Muhammet Emir Koltuk](https://www.linkedin.com/in/muhammetemirkoltuk/)  
-- Email: **koltuk20@itu.edu.tr**   
-
----
